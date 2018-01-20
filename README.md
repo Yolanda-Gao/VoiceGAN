@@ -8,11 +8,12 @@ The speaker one is represented as A and speaker two is represented as B.
 -ABA is the twice transformed result of convert AB (the converted the voice of speaker B from speaker A) to the voice of speaker A again. <br>
 -BAB is the twice transformed result of convert BA (the converted the voice of speaker A from speaker B) to the voice of speaker B again. <br>
 
+[To listen to randomly picked results](http://nbviewer.jupyter.org/github/Yolanda-Gao/Spectrogram-GAN/blob/master/VoiceGAN%20result.ipynb)
+
 A-AB-ABA
 ![result1](A-AB-ABA1.gif)
 
 B-BA-BAB
 ![result1](B-BA-BAB1.gif)
 
-[To listen to randomly picked results](http://nbviewer.jupyter.org/github/Yolanda-Gao/Spectrogram-GAN/blob/master/VoiceGAN%20result.ipynb)
 
