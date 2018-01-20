@@ -14,5 +14,5 @@ A-AB-ABA
 B-BA-BAB
 ![result1](B-BA-BAB1.gif)
 
-
+[To listen to randomly picked results](http://nbviewer.jupyter.org/github/Yolanda-Gao/Spectrogram-GAN/blob/master/VoiceGAN%20result.ipynb)
 
