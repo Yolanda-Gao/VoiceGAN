@@ -1,4 +1,4 @@
-# Spectrogram-GAN
+# Voice-GAN
 These are the results for Spectrogram-GAN voice transformation
 
 The speaker one is represented as A and speaker two is represented as B. 
